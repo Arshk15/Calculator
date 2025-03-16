@@ -36,7 +36,8 @@ This is a simple calculator web application that allows users to perform basic a
 3. Enjoy calculating!
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/c1b5c8b1-1d70-4aca-b8ee-062090140f5f)
+![image](https://github.com/user-attachments/assets/7f0b824d-4419-4f3d-b58d-1862bf9948b2)
+
 
 ## License
 This project is open-source and free to use under the MIT License.

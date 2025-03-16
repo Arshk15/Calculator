@@ -1,0 +1,85 @@
+.text-center{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.container{
+    width: 30%;
+    background-color: black;
+    margin: auto;
+    padding: 50px;
+    border: 7px solid grey;
+    
+}
+
+.button{
+    width: 75px;
+    height: 75px;
+    margin: 7px;
+    border-radius: 50px;
+    background-color: #3D3B3B;
+    color: white;
+    cursor: pointer;
+    font-size:25px;
+    font-weight: 500;
+
+}
+
+.button:hover {
+    background-color: #5C5A5A; /* Slightly lighter shade for hover */
+    transform: scale(1.1); /* Subtle zoom effect */
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row input{
+    padding: 15px 10px 15px 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    width: auto;
+}
+
+.button_operator{
+    background-color: orange;
+    color: #ffffff;
+    width: 75px;
+    height: 75px;
+    margin: 7px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size:30px;
+    font-weight: 500;
+}
+
+.button_operator:hover{
+    background-color: #FAAD38; /* Slightly lighter shade for hover */
+    transform: scale(1.1);    
+}
+
+#extra{
+    background-color: #B0B0B4;
+    color: #000;
+}
+
+#extra:hover{
+    background-color: #DAD7D4; /* Slightly lighter shade for hover */
+    transform: scale(1.1);
+}
+
+#zero{
+    width: 160px;
+}
